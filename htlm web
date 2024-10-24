@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doctrinas Éticas y Filosóficas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #333;
+            text-align: center;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+        .doctrina {
+            margin-bottom: 40px;
+        }
+        .bibliografia {
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Doctrinas Éticas y Filosóficas</h1>
+</header>
+
+<section>
+    <div class="doctrina">
+        <h2>Iusnaturalismo</h2>
+        <img src="ruta_a_tu_imagen_de_iusnaturalismo.png" alt="Iusnaturalismo">
+    </div>
+
+    <div class="doctrina">
+        <h2>Utilitarismo</h2>
+        <img src="ruta_a_tu_imagen_de_utilitarismo.png" alt="Utilitarismo">
+    </div>
+
+    <div class="doctrina">
+        <h2>Universalismo</h2>
+        <img src="ruta_a_tu_imagen_de_universalismo.png" alt="Universalismo">
+    </div>
+
+    <div class="doctrina">
+        <h2>Subjetivismo</h2>
+        <img src="ruta_a_tu_imagen_de_subjetivismo.png" alt="Subjetivismo">
+    </div>
+
+    <div class="doctrina">
+        <h2>Emotivismo</h2>
+        <img src="ruta_a_tu_imagen_de_emotivismo.png" alt="Emotivismo">
+    </div>
+
+    <div class="doctrina">
+        <h2>Relativismo Cultural</h2>
+        <img src="ruta_a_tu_imagen_de_relativismo_cultural.png" alt="Relativismo Cultural">
+    </div>
+
+    <div class="doctrina">
+        <h2>Determinismo</h2>
+        <img src="ruta_a_tu_imagen_de_determinismo.png" alt="Determinismo">
+    </div>
+</section>
+
+<footer>
+    <h2>Bibliografía</h2>
+    <div class="bibliografia">
+        <p>Aquino, T. (1265-1274). <i>Summa Theologiae</i>. Benziger Bros.</p>
+        <p>Mill, J. S. (1863). <i>Utilitarianism</i>. Parker, Son, and Bourn.</p>
+        <p>Kant, I. (1785). <i>Fundamentación de la metafísica de las costumbres</i>. Immanuel Kant.</p>
+        <p>Hume, D. (1739). <i>A Treatise of Human Nature</i>. John Noon.</p>
+        <p>Ayer, A. J. (1936). <i>Language, Truth, and Logic</i>. Victor Gollancz Ltd.</p>
+        <p>Boas, F. (1911). <i>The Mind of Primitive Man</i>. Macmillan.</p>
+        <p>Laplace, P.-S. (1820). <i>Essai philosophique sur les probabilités</i>. Bachelier.</p>
+    </div>
+</footer>
+
+</body>
+</html>
